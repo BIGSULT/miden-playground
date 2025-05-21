@@ -1,0 +1,11 @@
+proc.triple
+    dup.0
+    dup.0
+    add
+    add
+end
+
+begin
+    push.3
+    call triple
+end
