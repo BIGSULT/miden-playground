@@ -1,0 +1,7 @@
+begin
+    push.1
+    repeat.4
+        dup.0
+        add
+    end
+end
