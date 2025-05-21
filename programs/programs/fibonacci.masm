@@ -1,0 +1,9 @@
+begin
+    push.0      // f0
+    push.1      // f1
+    repeat.5
+        dup.1
+        dup.1
+        add
+    end
+end
